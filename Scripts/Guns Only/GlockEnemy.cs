@@ -1,4 +1,5 @@
-﻿using System;
+//This is a script for the Glock Enemy and it contains all the logic required for the enemy to function
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
