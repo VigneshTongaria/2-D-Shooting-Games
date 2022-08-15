@@ -2,4 +2,4 @@ These are the scripts for Guns Only game
 GlockEnemy.cs contains all the logic for the enemy to function which includes shooting, rotating towards player, moving in a randomized path etc.
 Shotgun.cs also contains the logic for enemy but this time it fires a spread of bullets
 Wave.cs contains all the logic for spawing the waves of enemy after a wave has been destroyed at a set position
-player.cs contains all the logic for the player to move and shoot the enemy
+gun.cs contains all the logic for the player to move and shoot the enemy
