@@ -1,1 +1,5 @@
 These are the scripts for Block Breaker game
+Ball.cs contains all the logic for the ball to function including launching, clamping velocity and slowing down time
+BreakableBlocks.cs contains all the logic for the breakable blocks including health and damage system, increasing special meter, etc.
+UnbreakableBlocks.cs contains all the logic for the Unbreakable blocks.
+Paddle.cs contains all the logic for the player and the paddle including launching ball, shooting laser, setting paddle position through mouse etc.
